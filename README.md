@@ -1,1 +1,1 @@
-# Use the README files in individual projects for setting up
+Use the README files in individual projects for setting up
