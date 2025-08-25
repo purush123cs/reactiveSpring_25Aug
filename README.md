@@ -1,1 +1,1 @@
-# reactiveSpring_25Aug
+# Use the README files in individual projects for setting up
