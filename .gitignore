@@ -1,4 +1,9 @@
-.idea
-.gradle
+#express.js
 node_modules/
+
+#spring
+.gradle
 build/
+
+#IntelliJ IDEA
+.idea
